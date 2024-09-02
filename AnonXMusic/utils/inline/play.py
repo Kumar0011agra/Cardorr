@@ -61,10 +61,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝐍ᴏʙɪᴛꫝ 📢", url=f"https://t.me/ll_NOBITA_BOT_DEVLOPER_ll"
+                text="Owner 📢", url=f"https://t.me/MR_CODER_DARK"
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/nobita_support"
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/YOUR_CRUSH_CODER"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -76,10 +76,10 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝐍ᴏʙɪᴛꫝ 📢", url=f"https://t.me/ll_NOBITA_BOT_DEVLOPER_ll"
+                text="𝐍ᴏʙɪᴛꫝ 📢", url=f"https://t.me/YOUR_CRUSH_CODER"
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/nobita_all_bot"
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/YOUR_CRUSH_CODER"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
